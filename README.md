@@ -10,8 +10,8 @@ Here, the procedure goes as follows:
     - Each site has a probability (p) of being opened.
     - We iterate through each site and finally check whether the system percolates or not.  
 
-    Plot: *(Probabilty of Percolation)* vs *(Probability of a Site being Opened)*
-    ![Screenshot 2018-11-29 at 4.45.11 PM.png]({{site.baseurl}}/Screenshot 2018-11-29 at 4.45.11 PM.png)
+    Plot: *(Probabilty of Percolation)* vs *(Probability of a Site being Opened)*   
+    ![Plot](https://github.com/jaymalk/Percolation_Analysis/Plot.png)
 
     Example of the procedure:
 
