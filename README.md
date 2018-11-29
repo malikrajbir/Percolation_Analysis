@@ -13,7 +13,7 @@ Here, the procedure goes as follows:
     Plot: *(Probabilty of Percolation)* vs *(Probability of a Site being Opened)*   
     ![Plot](https://github.com/jaymalk/Percolation_Analysis/blob/master/Plot.png)
 
-        Functioning:
+        Examples.
     <p align="center">
        <br> Lattice Size : 40</br>
         <img src = "https://github.com/jaymalk/Percolation_Analysis/blob/master/RANDOM_40.gif">
@@ -31,4 +31,10 @@ Here, the procedure goes as follows:
     Surprisingly, the no. of nodes opened can always be approximated to a good level.
     There is a high probability that count opened sites is near to threshold ratio.
     
-    Example of the procedure:
+        Examples.
+    <p align="center">
+        <br> Lattice Size : 40    Probability : 0.4</br>
+        <img src = "https://github.com/jaymalk/Percolation_Analysis/blob/master/40_0_4.gif">
+        <br> Lattice Size : 40    Probability : 0.6</br>
+        <img src = "https://github.com/jaymalk/Percolation_Analysis/blob/master/40_0_6.gif">
+    </p>
