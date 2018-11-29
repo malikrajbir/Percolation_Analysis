@@ -12,14 +12,15 @@ Here, the procedure goes as follows:
 
     Plot: *(Probabilty of Percolation)* vs *(Probability of a Site being Opened)*   
     ![Plot](https://github.com/jaymalk/Percolation_Analysis/blob/master/Readme_Files/Plot.png)
-
+     
      Examples.
     <p align="center">
-       <br> Lattice Size : 40</br>
-        <img src = "https://github.com/jaymalk/Percolation_Analysis/blob/master/Readme_Files/GIFS/RANDOM_40.gif">
-        <br>Lattice Size : 60</br>
-        <img src = "https://github.com/jaymalk/Percolation_Analysis/blob/master/Readme_Files/GIFS/RANDOM_60.gif">
+        <br> Lattice Size : 40    Probability : 0.4</br>
+        <img src = "https://github.com/jaymalk/Percolation_Analysis/blob/master/Readme_Files/GIFS/40__0_4.gif">
+        <br> Lattice Size : 40    Probability : 0.6</br>
+        <img src = "https://github.com/jaymalk/Percolation_Analysis/blob/master/Readme_Files/GIFS/40__0_6.gif">
     </p>
+     
 
 
 - ***Random Opening of Sites***   
@@ -33,8 +34,8 @@ Here, the procedure goes as follows:
     
      Examples.
     <p align="center">
-        <br> Lattice Size : 40    Probability : 0.4</br>
-        <img src = "https://github.com/jaymalk/Percolation_Analysis/blob/master/Readme_Files/GIFS/40__0_4.gif">
-        <br> Lattice Size : 40    Probability : 0.6</br>
-        <img src = "https://github.com/jaymalk/Percolation_Analysis/blob/master/Readme_Files/GIFS/40__0_6.gif">
+       <br> Lattice Size : 40</br>
+        <img src = "https://github.com/jaymalk/Percolation_Analysis/blob/master/Readme_Files/GIFS/RANDOM_40.gif">
+        <br>Lattice Size : 60</br>
+        <img src = "https://github.com/jaymalk/Percolation_Analysis/blob/master/Readme_Files/GIFS/RANDOM_60.gif">
     </p>
