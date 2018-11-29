@@ -13,12 +13,12 @@ Here, the procedure goes as follows:
     Plot: *(Probabilty of Percolation)* vs *(Probability of a Site being Opened)*   
     ![Plot](https://github.com/jaymalk/Percolation_Analysis/blob/master/Plot.png)
 
-        Example of the procedure:
+        Functioning:
     <p align="center">
-       <br> - Lattice Size = 40</br>
-        <img src = "https://github.com/jaymalk/Percolation_Analysis/blob/master/Random_40.gif">
-        <br>-Lattice Size = 60</br>
-        <img src = "https://github.com/jaymalk/Percolation_Analysis/blob/master/Random_60.gif">
+       <br> Lattice Size : 40</br>
+        <img src = "https://github.com/jaymalk/Percolation_Analysis/blob/master/RANDOM_40.gif">
+        <br>Lattice Size : 60</br>
+        <img src = "https://github.com/jaymalk/Percolation_Analysis/blob/master/RANDOM_60.gif">
     </p>
 
 
