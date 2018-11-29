@@ -16,9 +16,9 @@ Here, the procedure goes as follows:
      Examples.
     <p align="center">
        <br> Lattice Size : 40</br>
-        <img src = "https://github.com/jaymalk/Percolation_Analysis/blob/master/RANDOM_40.gif">
+        <img src = "https://github.com/jaymalk/Percolation_Analysis/blob/master/Readme_Files/GIFS/RANDOM_40.gif">
         <br>Lattice Size : 60</br>
-        <img src = "https://github.com/jaymalk/Percolation_Analysis/blob/master/RANDOM_60.gif">
+        <img src = "https://github.com/jaymalk/Percolation_Analysis/blob/master/Readme_Files/GIFS/RANDOM_60.gif">
     </p>
 
 
@@ -34,7 +34,7 @@ Here, the procedure goes as follows:
      Examples.
     <p align="center">
         <br> Lattice Size : 40    Probability : 0.4</br>
-        <img src = "https://github.com/jaymalk/Percolation_Analysis/blob/master/40__0_4.gif">
+        <img src = "https://github.com/jaymalk/Percolation_Analysis/blob/master/Readme_Files/GIFS/40__0_4.gif">
         <br> Lattice Size : 40    Probability : 0.6</br>
-        <img src = "https://github.com/jaymalk/Percolation_Analysis/blob/master/40__0_6.gif">
+        <img src = "https://github.com/jaymalk/Percolation_Analysis/blob/master/Readme_Files/GIFS/40__0_6.gif">
     </p>
