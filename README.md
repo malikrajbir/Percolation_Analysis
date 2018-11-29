@@ -14,7 +14,9 @@ Here, the procedure goes as follows:
     ![Plot](https://github.com/jaymalk/Percolation_Analysis/blob/master/Plot.png)
 
     ```Example of the procedure:```
-    ![Example](https://github.com/jaymalk/Percolation_Analysis/blob/master/Random_GIF.gif)
+    <p align="center">
+        <img src = "https://github.com/jaymalk/Percolation_Analysis/blob/master/Random_GIF.gif">
+    </p>
 
 
 - ***Random Opening of Sites***   
