@@ -11,7 +11,7 @@ Here, the procedure goes as follows:
     - We iterate through each site and finally check whether the system percolates or not.  
 
     Plot: *(Probabilty of Percolation)* vs *(Probability of a Site being Opened)*   
-    ![Plot](https://github.com/jaymalk/Percolation_Analysis/Plot.png)
+    ![Plot](https://github.com/jaymalk/Percolation_Analysis/blob/master/Plot.png)
 
     Example of the procedure:
 
