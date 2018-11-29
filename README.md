@@ -1,3 +1,4 @@
+
 # Percolation_Analysis
 #### Analysis of Percolation in a 2D-Square Lattice.
 ### To understand the probabilistic relation between a site's (block) opening and percolation of the system.
@@ -10,6 +11,7 @@ Here, the procedure goes as follows:
     - We iterate through each site and finally check whether the system percolates or not.  
 
     Plot: *(Probabilty of Percolation)* vs *(Probability of a Site being Opened)*
+    ![Screenshot 2018-11-29 at 4.45.11 PM.png]({{site.baseurl}}/Screenshot 2018-11-29 at 4.45.11 PM.png)
 
     Example of the procedure:
 
