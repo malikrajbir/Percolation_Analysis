@@ -13,8 +13,8 @@ Here, the procedure goes as follows:
     Plot: *(Probabilty of Percolation)* vs *(Probability of a Site being Opened)*   
     ![Plot](https://github.com/jaymalk/Percolation_Analysis/blob/master/Plot.png)
 
-    Example of the procedure:
-
+    ```Example of the procedure:```
+    ![Example](https://github.com/jaymalk/Percolation_Analysis/blob/master/Random_GIF.gif)
 
 
 - ***Random Opening of Sites***   
