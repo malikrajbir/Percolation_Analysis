@@ -6,12 +6,14 @@ public class PercolationVariedProbability {
     private Site[][] sites;
     private boolean percolates;
     public Random r = new Random();
+    private int lowestFilledLevel;
 
     public PercolationVariedProbability(int size) {
         this.size = size;
         this.open_count = 0;
         this.percolates = false;
         this.sites = new Site[size][size];
+        this.lowestFilledLevel = size;
         for(int i=0; i<size; i++)
             for(int j=0; j<size; j++)
                 sites[i][j] = new Site();
@@ -46,6 +48,8 @@ public class PercolationVariedProbability {
             return;
         }
         sites[i][j].fill();
+        if(j < lowestFilledLevel)
+            lowestFilledLevel = j;
         if(j == 0)
             this.percolates = true;
         if(isOpen(i, j-1) && !isFull(i, j-1))
@@ -68,6 +72,10 @@ public class PercolationVariedProbability {
         if(i<0 || i>=size || j<0 || j>=size)
             return false;
         return sites[i][j].isFull();
+    }
+
+    public int lowestFilledLevel() {
+        return this.lowestFilledLevel;
     }
 
     public boolean percolates() {
