@@ -27,7 +27,7 @@ Here, the procedure goes as follows:
 Here, the procedure goes as follows:
     - We start with a completely closed site.
     - Now, randomly pick and open sites, till the system percolates.
-    - After percolation we check how many sites are actually opened.
+    - After percolation we check how many sites have been opened.
 
     Surprisingly, the no. of nodes opened can always be approximated to a good level.
     There is a high probability that count opened sites is near to threshold ratio.
